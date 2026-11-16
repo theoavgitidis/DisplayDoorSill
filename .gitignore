@@ -1,0 +1,46 @@
+# Android / Gradle / IDE machine state
+*.iml
+.gradle/
+.idea/
+.kotlin/
+local.properties
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+
+# Credentials, signing material and local configuration
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+key.properties
+keystore.properties
+credentials.json
+google-services.json
+.mdroid/
+
+# Python and runtime data
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+/images/
+*.sqlite*
+
+# Local backups, archives and generated packages
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.bak
+*.bundle
+*.apk
+*.aab
