@@ -22,7 +22,7 @@ benchmarkTraceprocessorAndroid = "1.4.1"
 navigationCompose = "2.9.6"
 okhttp = "4.12.0"
 retrofit = "2.9.0"
-appcompat = "1.7.1"
+appcompat = "1.8.0"
 
 [libraries]
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activityCompose" }
