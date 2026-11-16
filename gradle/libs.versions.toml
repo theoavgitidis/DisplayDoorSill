@@ -1,7 +1,7 @@
 [versions]
 activityCompose = "1.9.3"
 agp = "8.7.3"
-androidxComposeBom = "2025.02.00"
+androidxComposeBom = "2026.09.00"
 androidxLifecycleRuntimeKtx = "2.7.0"
 coilCompose = "2.5.0"
 converterGson = "2.9.0"
